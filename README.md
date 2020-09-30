@@ -1,9 +1,5 @@
-### Hi there 👋, my name is Chandan
-#### Developer
-![Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
+I'm Chandan from India, I'm seeking for an opportunity in "Software Development " field to perform to the zenith of my thinking abilities and analytical skills thereby providing me a professional growth being innovative and flexible.
 
-Skills:  HTML / CSS / JAVA / Sql /
-
-- 🔭 I’m currently working on this page. 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ckumar712)](https://github.com/anuraghazra/github-readme-stats)
